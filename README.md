@@ -55,7 +55,7 @@ Además de la gestión y la tecnología, trabajo en arte transmedial: performanc
 
 ## Contacto
 
-- WhatsApp: [+ wa.me/juanaustral](https://wa.me/juanaustral)
+- WhatsApp: [wa.me/juanaustral](https://wa.me/juanaustral)
 - Email: [hola@juanmartinezgarcia.com](mailto:hola@juanmartinezgarcia.com)
 - LinkedIn: [juanmartinezgarcia-profile](https://www.linkedin.com/in/juanmartinezgarcia-profile/)
 - Estudio: [IONA.AR](https://iona.ar/) · Portfolio: [work.juanmartinezgarcia.com](https://work.juanmartinezgarcia.com/)
