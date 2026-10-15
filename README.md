@@ -30,7 +30,7 @@ Podés empezar por un solo servicio y sumar los otros cuando haga falta.
 - **[APC, Analizador de Proyectos Culturales](https://iona.ar/apc/)** ([sitio](https://apc.iona.ar/)): herramienta de análisis con IA aplicada a proyectos culturales. En uso.
 - **[Ultimate Clock](https://iona.ar/ultimateclock/)** ([código](https://github.com/juanaustral/ultimate-clock)): tablero táctil para dirigir partidos de Ultimate Frisbee. Publicado y de código abierto con licencia no comercial.
 - **[FreeLicense Image Finder](https://github.com/juanaustral/freelicense-image-finder)** ([demo](https://juanaustral.github.io/freelicense-image-finder/)): buscador de imágenes con licencia CC0 y dominio público, sin API keys.
-- **Sitios web a medida desde 2010**: [IONA.AR](https://iona.ar/), [work.juanmartinezgarcia.com](https://work.juanmartinezgarcia.com/), [juanmartinezgarcia.com](https://juanmartinezgarcia.com/portfolio), [cuerpxytecnologia.ar](https://cuerpxytecnologia.ar/).
+- **Sitios web a medida desde 2010**: [IONA.AR](https://iona.ar/), [work.juanmartinezgarcia.com](https://work.juanmartinezgarcia.com/), [juanmartinezgarcia.com](https://juanmartinezgarcia.com/portfolio), [Cuerpx & Tecnología](https://juanmartinezgarcia.com/portfolio/obras/cuerpx/).
 
 Los repositorios privados no se enumeran acá. Si querés ver algo en particular, pedímelo.
 
